@@ -16,6 +16,23 @@ PRÁCTICA No. 4 TEOREMA DE SUPERPOSICIÓN
 
 4.1. OBJETIVO DE LA PRÁCTICA
 
+Objetivos Generales:
+
+Determinar la resistencia interna de una fuente en forma experimental. 
+
+•Comprobar experimentalmente el teorema de superposición
+
+•Determinar la resistencia interna de una fuente en forma experimental. 
+
+
+Objetivos Específicos:
+
+•	Trabajar y entender el teorema de superposición de la electrónica mediante la comprobación de mediciones
+experimentales y simulaciones de circuitos en TinkerCard.
+
+
+
+
 
 4.2 MARCO TEORICO
 
