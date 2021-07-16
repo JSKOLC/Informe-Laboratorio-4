@@ -71,7 +71,8 @@ el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
-![image](https://user-images.githubusercontent.com/85263529/125893764-e9527bc2-ba2e-4154-a81b-bccfcfac7d8f.png)
+![imagen](https://user-images.githubusercontent.com/85263529/125994775-8914c781-61d0-4748-a1a3-df62fe2cf2f0.png)
+
 
 4.5.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
@@ -84,20 +85,22 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 4.5.5.1 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente
 Ix.
 
-![imagen](https://user-images.githubusercontent.com/85263529/125902189-63a3c6ad-4ebc-4aa4-82be-5f2a0d9a9917.png)
+![imagen](https://user-images.githubusercontent.com/85263529/125994036-760361cd-aa62-4cfd-bd70-fea786d150cf.png)
 
-![imagen](https://user-images.githubusercontent.com/85263529/125902266-14c16bb1-b51e-4a32-8f6c-f919437e6a0c.png)
+![imagen](https://user-images.githubusercontent.com/85263529/125994082-490b11b3-1884-454e-b350-0334e97d1165.png)
 
-![imagen](https://user-images.githubusercontent.com/85263529/125902322-ccb04269-8b64-4c7e-8330-9a68c5b08d21.png)
+![imagen](https://user-images.githubusercontent.com/85263529/125994196-3b1f9026-6237-4bef-9e1a-f0c3c50b4144.png)
+
 
 4.5.5.2 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
 Ix.
 
-![imagen](https://user-images.githubusercontent.com/85263529/125902453-52f56f36-4f7a-41e0-8e3b-bd2e668c5fdd.png)
+![imagen](https://user-images.githubusercontent.com/85263529/125994262-14d950bd-2a51-44f6-9eb6-498c26ea8e0a.png)
 
-![imagen](https://user-images.githubusercontent.com/85263529/125902490-73f1dbb4-6ca2-4ffb-9b10-4058dcff2a2e.png)
+![imagen](https://user-images.githubusercontent.com/85263529/125994404-70105a60-978e-4824-88fe-8d2e73797046.png)
 
-![imagen](https://user-images.githubusercontent.com/85263529/125902551-f7ea7f49-ad29-4d27-a6e2-68f7aa9eaadc.png)
+![imagen](https://user-images.githubusercontent.com/85263529/125994467-dd71f6d7-417e-4d95-9671-64d202287997.png)
+
 
 4.5.5.3 Con las dos fuentes conectadas, mida el voltaje VA y la corriente Ix.
 
@@ -105,15 +108,16 @@ Ix.
 
 Una vez hecho el análicis del teorema de superposición, tenemos que:
 
-![imagen](https://user-images.githubusercontent.com/85263529/125903317-073b2af2-83b3-4983-96d0-64108c10173f.png)
+![imagen](https://user-images.githubusercontent.com/85263529/125994603-9e867503-36ee-4abd-9a0b-625d92e3aaef.png)
 
-Tabla 4.1. Medición de coltaje aplicando superposición.
+Tabla 4.1. Medición de Voltaje aplicando superposición.
 
-![imagen](https://user-images.githubusercontent.com/85263529/125903600-9fac7347-63fd-4ebf-ad70-5055ab43bae4.png)
+![imagen](https://user-images.githubusercontent.com/85263529/125994661-9a358c62-ab39-4522-b503-89c5fb4b7c56.png)
+
 
 Tabla 4.2. Medición de corriente aplicando superposición.
 
-![imagen](https://user-images.githubusercontent.com/85263529/125903703-b322fe72-c92e-4884-bafa-8f4a170e4ffe.png)
+![imagen](https://user-images.githubusercontent.com/85263529/125994687-abcb73b2-c72a-4ed6-873b-3bc0fe5d40ce.png)
 
 
 4.6.RESPUESTA A INTERROGANTES
