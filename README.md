@@ -19,6 +19,9 @@ PRÁCTICA No. 4 TEOREMA DE SUPERPOSICIÓN
 
 4.2 MARCO TEORICO
 
+![image](https://user-images.githubusercontent.com/85263529/125878219-db5c0c9c-7429-477c-bba2-55f6c9a066a4.png)
+
+
 4.3 INFORMACIÓN GENERAL
 
 Uno de los métodos que se aplica en el análisis de circuitos eléctricos que cuentan
