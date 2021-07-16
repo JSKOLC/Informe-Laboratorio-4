@@ -68,7 +68,7 @@ las fuentes de corriente igualadas a cero equivalen a un circuito abierto.
 
 ![image](https://user-images.githubusercontent.com/85263529/125874908-0d3cc0b8-6f2a-40b1-a65e-c0f8eab332e6.png)
 
-
+![image](https://user-images.githubusercontent.com/85263529/125884389-5f5d17d5-6729-43e1-9a0e-6fd0b71f31a9.png)
 
  Circuito simulado en TINKERCARD
 
@@ -76,10 +76,18 @@ las fuentes de corriente igualadas a cero equivalen a un circuito abierto.
 tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
 el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
-![image](https://user-images.githubusercontent.com/85263529/125884389-5f5d17d5-6729-43e1-9a0e-6fd0b71f31a9.png)
-
 
 ![image](https://user-images.githubusercontent.com/85263529/125884285-7695cef8-5bad-4743-a616-6ca59b1a23bb.png)
+
+4.5.3. Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente
+IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+
+
+4.5.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
+IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
 
 
