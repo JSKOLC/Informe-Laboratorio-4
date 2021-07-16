@@ -18,17 +18,22 @@ PRÁCTICA No. 4 TEOREMA DE SUPERPOSICIÓN
 
 Objetivos Generales:
 
-Determinar la resistencia interna de una fuente en forma experimental. 
 
 •Comprobar experimentalmente el teorema de superposición
 
 •Determinar la resistencia interna de una fuente en forma experimental. 
+
+•	Demostrar el teorema de superposición por dos métodos uno experimental y el otro teórico a partir 
+de los cálculos por el mismo método, en la manera que se logre entender la funcionalidad de facilidad 
+el cálculo mediante con grado de dificultad elevada
 
 
 Objetivos Específicos:
 
 •	Trabajar y entender el teorema de superposición de la electrónica mediante la comprobación de mediciones
 experimentales y simulaciones de circuitos en TinkerCard.
+
+•	Resolver circuitos lineales aplicando el teorema de superposición para determinar tensiones y corrientes.
 
 
 
@@ -87,6 +92,16 @@ el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
 
 4.8.CONCLUSIONES
+
+•	Aprendimos a implementar el teorema de superposición con la toma de medidas usando 2 fuentes de alimentación
+•	El teorema de superposición permite evaluar los datos proporcionados por cada una de las fuentes en las
+diferentes resistencias, para luego poder sumar los datos y así llegar a los verdaderos valores de los circuitos.
+
+•	AL utilizar el teorema conseguimos trabajar con circuitos con más de una fuente de carga conectada a él y así
+pueden ser separados y al momento de sumarlos se puede dar cuenta que hay una precisión muy grande entre ellos y 
+lo podemos evidenciar con las tablas comparativas que este teorema es como la suma de los factores que seria
+igual a el factor total.
+
 
 
 
