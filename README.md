@@ -14,6 +14,10 @@ INTEGRANTES:
 
 PRÁCTICA No. 4 TEOREMA DE SUPERPOSICIÓN
 
+
+
+
+
 4.1. OBJETIVO DE LA PRÁCTICA
 
 Objetivos Generales:
@@ -83,6 +87,15 @@ el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
 4.6.RESPUESTA A INTERROGANTES
 
+•	se comprobó el método de superposición de un circuito, donde se especifica que se pueden hacer 
+cortocircuitos o circuitos abiertos dependiendo si es una fuente de corriente o de voltaje respectivamente,
+donde la suma de cada calculo determinándolo para cada fuente será igual al voltaje o corriente total
+que circula por el circuito
+
+
+•	Se logró constatar como varia la potencia al alterar casos específicos 
+
+
 
 
 
@@ -94,6 +107,7 @@ el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 4.8.CONCLUSIONES
 
 •	Aprendimos a implementar el teorema de superposición con la toma de medidas usando 2 fuentes de alimentación
+
 •	El teorema de superposición permite evaluar los datos proporcionados por cada una de las fuentes en las
 diferentes resistencias, para luego poder sumar los datos y así llegar a los verdaderos valores de los circuitos.
 
