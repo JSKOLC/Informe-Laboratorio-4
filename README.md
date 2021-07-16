@@ -127,6 +127,8 @@ que circula por el circuito
 
 4.7.VIDEO
 
+https://youtu.be/h_2zfOcrnRI
+
 
 
 4.8.CONCLUSIONES
