@@ -67,6 +67,12 @@ las fuentes de corriente igualadas a cero equivalen a un circuito abierto.
 tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
 el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
+![image](https://user-images.githubusercontent.com/85263529/125884389-5f5d17d5-6729-43e1-9a0e-6fd0b71f31a9.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/125884285-7695cef8-5bad-4743-a616-6ca59b1a23bb.png)
+
+
 
 
 
