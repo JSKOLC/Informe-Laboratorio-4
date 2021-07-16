@@ -1,5 +1,17 @@
 # Informe-Laboratorio-4
 
+ING. DARWIN ALULEMA.
+
+INTEGRANTES:
+
+-CRIOLLO GUALOTUÑA KEVIN ORLANDO
+
+-SIGCHA MANOSALVAS JOSSELYN SUSANA
+
+-TACO LOACHAMIN LIZETH CAROLINA
+
+
+
 PRÁCTICA No. 4 TEOREMA DE SUPERPOSICIÓN
 
 4.1. OBJETIVO DE LA PRÁCTICA
@@ -34,4 +46,27 @@ las fuentes de corriente igualadas a cero equivalen a un circuito abierto.
 4.5.2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando
 tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
 el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+
+
+
+4.6.RESPUESTA A INTERROGANTES
+
+
+
+
+
+4.7.VIDEO
+
+
+
+4.8.CONCLUSIONES
+
+
+
+
+4.9.BIBLIOGRAFÍA
+Robbins, A. (2008). Analisis de circuitos. Teoria y practica. santa fe: cengage learning. Zapata, F. (. ((2 de June de 2021)). fisica. Leyes de Kirchhof, 5.
+
+
 
