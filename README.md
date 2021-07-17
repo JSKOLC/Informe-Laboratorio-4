@@ -131,8 +131,7 @@ que circula por el circuito
 
 4.7.VIDEO
 
-https://youtu.be/h_2zfOcrnRI
-
+https://youtu.be/TGhS3L508dU
 
 
 4.8.CONCLUSIONES
